@@ -1,0 +1,27 @@
+{
+  "name": "depmap-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+		"@depmap/stylus-loader": "*",
+		"@depmap/babel-loader": "*",
+		"@depmap/pug-loader": "*",
+		"@depmap/depmap": "*",
+		"@depmap/cli": "*"
+	},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/depmap/test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/depmap/test/issues"
+  },
+  "homepage": "https://github.com/depmap/test#readme"
+}

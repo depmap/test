@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "src/js/foo.js",
+  ],
+	"sourceRoot": "src/js"
+}
