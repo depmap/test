@@ -1,0 +1,77 @@
+{
+  "styl__about": {
+    "filename": "src/css/_about.styl",
+    "dependencies": {
+      "styl_index": {}
+    },
+    "lastUpdated": 1491001831000
+  },
+  "styl__global": {
+    "filename": "src/css/_global.styl",
+    "dependencies": {
+      "styl_index": {}
+    },
+    "lastUpdated": 1491915966000
+  },
+  "styl__index": {
+    "filename": "src/css/_index.styl",
+    "dependencies": {
+      "styl_index": {}
+    },
+    "lastUpdated": 1491863233000
+  },
+  "styl__variables": {
+    "filename": "src/css/_variables.styl",
+    "dependencies": {
+      "styl_index": {}
+    },
+    "lastUpdated": 1491001860000
+  },
+  "styl_index": {
+    "filename": "src/css/index.styl",
+    "dependencies": {},
+    "lastUpdated": 1491863230000
+  },
+  "pug__layout": {
+    "filename": "src/html/_layout.pug",
+    "dependencies": {
+      "pug_about": {},
+      "pug_index": {}
+    },
+    "lastUpdated": 1491918532000
+  },
+  "pug_about": {
+    "filename": "src/html/about.pug",
+    "dependencies": {},
+    "lastUpdated": 1491874508000
+  },
+  "pug_index": {
+    "filename": "src/html/index.pug",
+    "dependencies": {},
+    "lastUpdated": 1491875344000
+  },
+  "png_carrot-gopher": {
+    "filename": "src/img/carrot-gopher.png",
+    "dependencies": {},
+    "lastUpdated": 1491915961000
+  },
+  "js_bar": {
+    "filename": "src/js/bar.js",
+    "dependencies": {
+      "js_index": {}
+    },
+    "lastUpdated": 1491354804000
+  },
+  "js_foo": {
+    "filename": "src/js/foo.js",
+    "dependencies": {
+      "js_index": {}
+    },
+    "lastUpdated": 1491863163000
+  },
+  "js_index": {
+    "filename": "src/js/index.js",
+    "dependencies": {},
+    "lastUpdated": 1491354798000
+  }
+}
