@@ -1,16 +1,15 @@
 {
   "name": "depmap-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test project for Depmap",
   "main": "config.js",
   "dependencies": {
-		"@depmap/stylus-loader": "*",
-		"@depmap/babel-loader": "*",
-		"@depmap/pug-loader": "*",
-		"@depmap/depmap": "*",
-		"@depmap/cli": "*"
-	},
-  "devDependencies": {},
+    "@depmap/stylus-loader": "v1.0.0",
+    "@depmap/babel-loader": "1.0.0",
+    "@depmap/pug-loader": "v1.0.0",
+    "@depmap/depmap": "v1.0.0",
+    "@depmap/cli": "v1.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,10 +17,11 @@
     "type": "git",
     "url": "git+ssh://git@github.com/depmap/test.git"
   },
-  "author": "",
+  "author": "Henry Snopek <hhsnopek@gmail.com> (http://hhsnopek.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/depmap/test/issues"
   },
-  "homepage": "https://github.com/depmap/test#readme"
+  "homepage": "https://github.com/depmap/test#readme",
+  "private": true
 }
