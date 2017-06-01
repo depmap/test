@@ -1,77 +1,106 @@
 {
-  "styl__about": {
-    "filename": "src/css/_about.styl",
-    "dependencies": {
-      "styl_index": {}
+  "src/css/_about.styl": {
+    "context": {
+      "filepath": "src/css/_about.styl",
+      "loader": ".styl"
     },
+    "dependencies": {},
     "lastUpdated": 1491001831000
   },
-  "styl__global": {
-    "filename": "src/css/_global.styl",
-    "dependencies": {
-      "styl_index": {}
+  "src/css/_global.styl": {
+    "context": {
+      "filepath": "src/css/_global.styl",
+      "loader": ".styl"
     },
+    "dependencies": {},
     "lastUpdated": 1491915966000
   },
-  "styl__index": {
-    "filename": "src/css/_index.styl",
-    "dependencies": {
-      "styl_index": {}
+  "src/css/_index.styl": {
+    "context": {
+      "filepath": "src/css/_index.styl",
+      "loader": ".styl"
     },
+    "dependencies": {},
     "lastUpdated": 1491863233000
   },
-  "styl__variables": {
-    "filename": "src/css/_variables.styl",
-    "dependencies": {
-      "styl_index": {}
+  "src/css/_variables.styl": {
+    "context": {
+      "filepath": "src/css/_variables.styl",
+      "loader": ".styl"
     },
+    "dependencies": {},
     "lastUpdated": 1491001860000
   },
-  "styl_index": {
-    "filename": "src/css/index.styl",
+  "src/css/index.styl": {
+    "context": {
+      "filepath": "src/css/index.styl",
+      "loader": ".styl"
+    },
     "dependencies": {},
     "lastUpdated": 1491863230000
   },
-  "pug__layout": {
-    "filename": "src/html/_layout.pug",
-    "dependencies": {
-      "pug_about": {},
-      "pug_index": {}
+  "src/html/_layout.pug": {
+    "context": {
+      "filepath": "src/html/_layout.pug",
+      "loader": ".pug"
     },
-    "lastUpdated": 1491918532000
-  },
-  "pug_about": {
-    "filename": "src/html/about.pug",
     "dependencies": {},
-    "lastUpdated": 1491874508000
+    "lastUpdated": 1493931176000
   },
-  "pug_index": {
-    "filename": "src/html/index.pug",
-    "dependencies": {},
-    "lastUpdated": 1491875344000
-  },
-  "png_carrot-gopher": {
-    "filename": "src/img/carrot-gopher.png",
-    "dependencies": {},
-    "lastUpdated": 1491915961000
-  },
-  "js_bar": {
-    "filename": "src/js/bar.js",
-    "dependencies": {
-      "js_index": {}
+  "src/html/_post-template.pug": {
+    "context": {
+      "filepath": "src/html/_post-template.pug",
+      "loader": ".pug"
     },
+    "dependencies": {},
+    "lastUpdated": 1493921946000
+  },
+  "src/html/about.pug": {
+    "context": {
+      "filepath": "src/html/about.pug",
+      "loader": ".pug"
+    },
+    "dependencies": {},
+    "lastUpdated": 1496238672000
+  },
+  "src/html/index.pug": {
+    "context": {
+      "filepath": "src/html/index.pug",
+      "loader": ".pug"
+    },
+    "dependencies": {},
+    "lastUpdated": 1493930915000
+  },
+  "src/img/carrot-gopher.png": {
+    "context": {
+      "filepath": "src/img/carrot-gopher.png",
+      "loader": ".png"
+    },
+    "dependencies": {},
+    "lastUpdated": 1491921435000
+  },
+  "src/js/bar.js": {
+    "context": {
+      "filepath": "src/js/bar.js",
+      "loader": ".js"
+    },
+    "dependencies": {},
     "lastUpdated": 1491354804000
   },
-  "js_foo": {
-    "filename": "src/js/foo.js",
-    "dependencies": {
-      "js_index": {}
+  "src/js/foo.js": {
+    "context": {
+      "filepath": "src/js/foo.js",
+      "loader": ".js"
     },
-    "lastUpdated": 1491863163000
-  },
-  "js_index": {
-    "filename": "src/js/index.js",
     "dependencies": {},
-    "lastUpdated": 1491354798000
+    "lastUpdated": 1493929892000
+  },
+  "src/js/index.js": {
+    "context": {
+      "filepath": "src/js/index.js",
+      "loader": ".js"
+    },
+    "dependencies": {},
+    "lastUpdated": 1493929895000
   }
 }

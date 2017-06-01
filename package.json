@@ -4,11 +4,11 @@
   "description": "Test project for Depmap",
   "main": "config.js",
   "dependencies": {
-    "@depmap/stylus-loader": "v1.0.0",
+    "@depmap/stylus-loader": "1.0.0",
     "@depmap/babel-loader": "1.0.0",
-    "@depmap/pug-loader": "v1.0.0",
-    "@depmap/depmap": "v1.0.0",
-    "@depmap/cli": "v1.0.0"
+    "@depmap/pug-loader": "1.0.0",
+    "@depmap/depmap": "1.0.0",
+    "@depmap/cli": "1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
