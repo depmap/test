@@ -4,7 +4,9 @@
       "filepath": "src/css/_about.styl",
       "loader": ".styl"
     },
-    "dependencies": {},
+    "dependencies": {
+      "src/css/index.styl": {}
+    },
     "lastUpdated": 1491001831000
   },
   "src/css/_global.styl": {
@@ -12,7 +14,9 @@
       "filepath": "src/css/_global.styl",
       "loader": ".styl"
     },
-    "dependencies": {},
+    "dependencies": {
+      "src/css/index.styl": {}
+    },
     "lastUpdated": 1491915966000
   },
   "src/css/_index.styl": {
@@ -20,7 +24,9 @@
       "filepath": "src/css/_index.styl",
       "loader": ".styl"
     },
-    "dependencies": {},
+    "dependencies": {
+      "src/css/index.styl": {}
+    },
     "lastUpdated": 1491863233000
   },
   "src/css/_variables.styl": {
@@ -28,7 +34,9 @@
       "filepath": "src/css/_variables.styl",
       "loader": ".styl"
     },
-    "dependencies": {},
+    "dependencies": {
+      "src/css/index.styl": {}
+    },
     "lastUpdated": 1491001860000
   },
   "src/css/index.styl": {
@@ -44,7 +52,11 @@
       "filepath": "src/html/_layout.pug",
       "loader": ".pug"
     },
-    "dependencies": {},
+    "dependencies": {
+      "src/html/_post-template.pug": {},
+      "src/html/about.pug": {},
+      "src/html/index.pug": {}
+    },
     "lastUpdated": 1493931176000
   },
   "src/html/_post-template.pug": {
@@ -84,7 +96,9 @@
       "filepath": "src/js/bar.js",
       "loader": ".js"
     },
-    "dependencies": {},
+    "dependencies": {
+      "src/js/index.js": {}
+    },
     "lastUpdated": 1491354804000
   },
   "src/js/foo.js": {
@@ -92,7 +106,9 @@
       "filepath": "src/js/foo.js",
       "loader": ".js"
     },
-    "dependencies": {},
+    "dependencies": {
+      "src/js/index.js": {}
+    },
     "lastUpdated": 1493929892000
   },
   "src/js/index.js": {
